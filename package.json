@@ -9,6 +9,7 @@
   "author": "Deepak Dev",
   "license": "ISC",
   "dependencies": {
+    "date-and-time": "^0.14.1",
     "zip-a-folder": "0.0.12"
   }
 }
