@@ -9,7 +9,12 @@
   "author": "Deepak Dev",
   "license": "ISC",
   "dependencies": {
+    "adm-zip": "^0.4.16",
     "date-and-time": "^0.14.1",
+    "express-zip": "^3.0.0",
+    "jszip": "^3.5.0",
+    "mime": "^2.4.6",
+    "path": "^0.12.7",
     "zip-a-folder": "0.0.12"
   }
 }
